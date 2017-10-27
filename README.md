@@ -25,7 +25,7 @@ Závěrečný projekt na téma e-shop, přesněji vysvětlit princip fungování
 <p>Přihlášení do GA a získání GATC (google analytics tracking code)</p>
 
 <p>Základní rozhraní GA se dělí na 5 hlavních části: všeobecný přehled, cílové publikum, akvizice, chování, konverze.</p>
-<ul></li>Všeobecný přehled/domovská stránka - slouží pouze k základní orientaci</li>
+<ul><li>Všeobecný přehled/domovská stránka - slouží pouze k základní orientaci</li>
 <li>V reálném čase - ukazuje co se na našem webu děje právě teďm používá se např. když něco změníme a potřebujeme vědět jaké to má následky hned teď</li>
 <li>Cílové publikum - říká nám informace o uživatelích, geografické údaje, demografické údaje (věk, pohlaví), z jakého prohlížeče přicházejí</li>
 Akvizice - říká nám odkud uživatelé přišli, jaké stránky byly vstupní, přes jaké dotazy se na naše stránky dostali, nejdůležitější je zdroj / médium</li>
