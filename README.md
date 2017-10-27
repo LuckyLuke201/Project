@@ -2,14 +2,15 @@
 
 Závěrečný projekt na téma e-shop, přesněji vysvětlit princip fungování google analytics, k čemu to je dobré, jak nám to může pomoct, SEO optimalizace.
 
-<ul>Co by měl projekt obsahovat: <li>1. Podrobně popsat fungování google analytics</li>
-                             <li>2. Vysvětlit tento program, který slouží k webové analýze, na příkladu</li>
-                             <li>3. Popsat statistiky které můžeme v GA vidět</li>
-</ul>
-GA - Slouží pro získání informací o chování návštěvníků vašeho webu, o návratnosti vašich investic do online reklamy a pro hledání chyb na webu samotném.
+<ol>Co by měl projekt obsahovat: 
+  <li>Podrobně popsat fungování google analytics</li>
+  <li>Vysvětlit tento program, který slouží k webové analýze, na příkladu</li>
+  <li>Popsat statistiky které můžeme v GA vidět</li>
+</ol>
+<p>GA - Slouží pro získání informací o chování návštěvníků vašeho webu, o návratnosti vašich investic do online reklamy a pro hledání chyb na webu samotném.</p>
 
 
-Co to je <b>webová analytika</b> a k čemu je dobrá?
+<p>Co to je <b>webová analytika</b> a k čemu je dobrá?</p>
 <p>Internet je v dnešní době důležitý k podnikání všeho druhu. Jedním z těchto druhů je možnost mít vlastní internetový obchod, tzv e-shop, jehož cílem je vydělávání peněz. Taky právě ke sledování cílů byl vytvořen google analytics, který je primárně určen ke sledování chování lidí (uživatelů) na internetových stránkách.</p>
 <p>Webová analytika nám umožňuje přemýšlet na internetu více strategicky, protože zhruba víme, podle analyzovaných dat, jak se naše stránka chová a jak se na ni chovají uživatelé. Můžeme pomocí něj rozhodovat o budoucnosti našeho webu, skoro až předpovídat budoucnost, pokud v datech umíme dobře číst. GA nám umožňuje také popřípadě zjistit, kde máme na naší stránce nedostatky.</p>
 
