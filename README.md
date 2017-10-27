@@ -1,4 +1,4 @@
-<h1 style="background-color:red">Project</h1>
+<h1>Project</h1>
 <h2>Závěrečný projekt na téma webová analytika a google analytics.</h2>
 <ul>
   <li>Co to vlastně je webová analytika?</li>
@@ -17,7 +17,7 @@
 <p>Jaké máme nástroje pro webovou analytiku?</p>
 
 <p>Princip fungování:</p>
-<p>GA funguje na základě JavaScriptového kódu, který musíme vložit do záhlaví|zápatí stránky. Kód si vygenerujeme na stránkách analytics. Princip fungování kódu: při načtení stránky kód odkáže na externí soubor který provede sběr dat, data se odešlou serveru, ten je vyhodnotí a odešle serverům společnosti google a ten každou hodinu zpracovává a aktualizuje přehledy v GA.</p>
+<p>GA funguje na základě JavaScriptového kódu, který musíme vložit do záhlaví|zápatí stránky. Kód se generuje na stránkách analytics. Princip fungování kódu: při načtení stránky kód odkáže na externí soubor který provede sběr dat, data se odešlou serveru, ten je vyhodnotí a odešle serverům společnosti Google a ten každou hodinu zpracovává a aktualizuje přehledy v GA.</p>
 
 <p><b>PPC reklama</b> - pay per click, reklama se platí za každý proklik, pak už jen záleží pokud si uživatel něco koupí nebo ne a podle toho můžeme určit jestli je pro nás efektivní</p>
 
