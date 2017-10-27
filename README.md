@@ -8,11 +8,6 @@ Co by měl projekt obsahovat: 1. Podrobně popsat fungování google analytics
 
 GA - Slouží pro získání informací o chování návštěvníků vašeho webu, o návratnosti vašich investic do online reklamy a pro hledání chyb na webu samotném.
 
-https://www.youtube.com/watch?v=SyxcTHzzgeM&t=3063s - Základy k GA
-https://is.muni.cz/th/180828/ff_m/Magisterska_prace_-_Google_Analytics.pdf - Magisterská práce na téma GA
-http://blog.byznysweb.cz/2013/03/analyza-web-stranky-google-analytics-prvni-cast/ - Blog zaměřený na GA
-http://blog.byznysweb.cz/2011/10/jak-sledovat-efektivitu-reklamnich-kampani/ - Reklamní kampaně
-http://blog.faborsky.cz/google-analytics-uvodni-nastaveni-od-a-do-z/ - Nastavení
 
 Co to je webová analytika a k čemu je dobrá?
 Internet je v dnešní době důležitý k podnikání všeho druhu. Jedním z těchto druhů je možnost mít vlastní internetový obchod, tzv e-shop, jehož cílem je vydělávání peněz. Taky právě ke sledování cílů byl vytvořen google analytics, který je primárně určen ke sledování chování lidí (uživatelů) na internetových stránkách.
@@ -29,8 +24,9 @@ PPC reklama - pay per click, reklama se platí za každý proklik, pak už jen z
 Přihlášení do GA a získání GATC (google analytics tracking code)
 
 Základní rozhraní GA se dělí na 5 hlavních části: všeobecný přehled, cílové publikum, akvizice, chování, konverze.
-Všeobecný přehled/domovská stránka - slouží pouze k základní orientaci, pokud nemáme vysoké nároky bude nám stačit pouze t 
-Cílové publikum - říká nám informace o uživatelích, geografické údaje, demografické údaje (věk, pohlaví), z jakého prohlížeče přicházejí, z 
-Akvizice -
+Všeobecný přehled/domovská stránka - slouží pouze k základní orientaci
+V reálném čase - ukazuje co se na našem webu děje právě teďm používá se např. když něco změníme a potřebujeme vědět jaké to má následky hned teď
+Cílové publikum - říká nám informace o uživatelích, geografické údaje, demografické údaje (věk, pohlaví), z jakého prohlížeče přicházejí
+Akvizice - říká nám odkud uživatelé přišli, jaké stránky byly vstupní, přes jaké dotazy se na naše stránky dostali, nejdůležitější je zdroj / médium
 Chování - sleduje chování uživatelů na stránkách, jaké stránky si nejvíce prohlížejí
-Konverze - 
+Konverze - sleduje plnění cílů naší stránky, splněným cílem je pro nás potvrzení objednávky
