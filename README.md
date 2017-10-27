@@ -1,4 +1,4 @@
-<h1>Project</h1>
+<h1 style="text-decoration:underline;">Project</h1>
 <h2>Závěrečný projekt na téma webová analytika a google analytics.</h2>
 <ul>
   <li>Co to vlastně je webová analytika?</li>
@@ -8,13 +8,14 @@
 
 <br>
 <p>Co to je <b>webová analytika</b> a k čemu je dobrá?</p>
-<p>Webová analytika je měření a vyhodnocování dat z minulosti, jejich analýza nám pomáhá zjistit co se na našem webu děje. Nebýt webové analytiky, dalo by se říct, že jsme slepí. Nevíme co uživatelé našeho webu na něm dělají, na co klikají, odkud přichází apod. Díky webové analytice můžeme právě zjistit všechny tyto informace. Analýza minulosti je důležitá pro "předvídání" budoucnosti, dává nám možnost přemýšlet strategicky.</p>
+<p>Webová analytika je měření a vyhodnocování dat z minulosti, které nám pomáhá v rozhodování co uděláme v budoucnosti, jakou akci provedeme. Analýza nám pomáhá zjistit co se na našem webu děje. Nebýt webové analytiky, dalo by se říct, že jsme slepí. Nevíme co uživatelé našeho webu na něm dělají, na co klikají, odkud přichází apod. Díky webové analytice můžeme právě zjistit všechny tyto informace. Analýza minulosti je důležitá pro "předvídání" budoucnosti, dává nám možnost přemýšlet strategicky.</p>
 <br>
 <p>K čemu je dobrá? S čím nám může pomoci?</p>
 <br>
 <p>WA má mnoho možností uplatnění, mezi které patří např. odhalování technických nedostatků stránky, sleduje chování uživatelů (odkud přicházejí, jestli pomocí nějakých dotazů, nebo z sociálních sítí, jak se na našich stránkách chovají, na co klikají, jestli si taky něco koupili), zjišťuje jestli naše stránky slouží k tomu, k čemu mají. Jednou z nejdůlěžitějších měřitelných statistik je sledování ppc reklam. Nástroje webových analytik nám mohou říct jestli, případně jak moc, se nám reklamní kampaň vydařila, tudíž nám sděluje její efektivitu. To samé platí i v případě mailingu, např. poslední 3 roky byly v měsíci říjnu nejvyhledávanější hodinky Casio, tak na konci září rozešleme mail našim zákazníkům, že se v měsíci říjnu budou prodávat hodinky Casio se slevou 20%.</p>
 <br>
-Jaké máme nástroje pro webovou analytiku?
+<p>Jaké máme nástroje pro webovou analytiku?</p>
+
 <p>Princip fungování:</p>
 <p>GA funguje na základě JavaScriptového kódu, který musíme vložit do záhlaví|zápatí stránky. Kód si vygenerujeme na stránkách analytics. Princip fungování kódu: při načtení stránky kód odkáže na externí soubor který provede sběr dat, data se odešlou serveru, ten je vyhodnotí a odešle serverům společnosti google a ten každou hodinu zpracovává a aktualizuje přehledy v GA.</p>
 
