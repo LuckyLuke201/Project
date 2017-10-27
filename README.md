@@ -4,8 +4,7 @@ Závěrečný projekt na téma e-shop, přesněji vysvětlit princip fungování
 
 <ol>Co by měl projekt obsahovat: 
   <li>Podrobně popsat fungování google analytics</li>
-  <li>Vysvětlit tento program, který slouží k webové analýze, na příkladu</li>
-  <li>Popsat statistiky které můžeme v GA vidět</li>
+  <li>Popsat statistiky které můžeme v GA vidět na příkladu</li>
 </ol>
 <p>GA - Slouží pro získání informací o chování návštěvníků vašeho webu, o návratnosti vašich investic do online reklamy a pro hledání chyb na webu samotném.</p>
 
