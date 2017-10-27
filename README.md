@@ -1,4 +1,4 @@
-<h1 style="textDecoration:underline;">Project</h1>
+<h1 style="background-color:red">Project</h1>
 <h2>Závěrečný projekt na téma webová analytika a google analytics.</h2>
 <ul>
   <li>Co to vlastně je webová analytika?</li>
