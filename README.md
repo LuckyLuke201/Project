@@ -1,24 +1,23 @@
-# Project
+<h1>Project</h1>
+<h2>Závěrečný projekt na téma webová analytika a google analytics.</h2>
+<ul>
+  <li>Co to vlastně je webová analytika?</li>
+  <li>K čemu je dobrá? S čím nám může pomoci?</li>
+  <li>Jaké jsou nástroje webové analytiky?</li>
+</ul>
 
-Závěrečný projekt na téma e-shop, přesněji vysvětlit princip fungování google analytics, k čemu to je dobré, jak nám to může pomoct, SEO optimalizace.
-
-<ol>Co by měl projekt obsahovat: 
-  <li>Podrobně popsat fungování google analytics</li>
-  <li>Popsat statistiky které můžeme v GA vidět na příkladu</li>
-</ol>
-<p>GA - Slouží pro získání informací o chování návštěvníků vašeho webu, o návratnosti vašich investic do online reklamy a pro hledání chyb na webu samotném.</p>
-
-
-<p>Co to je <b>webová analytika</b> a k čemu je dobrá?</p>
-<p>Internet je v dnešní době důležitý k podnikání všeho druhu. Jedním z těchto druhů je možnost mít vlastní internetový obchod, tzv e-shop, jehož cílem je vydělávání peněz. Taky právě ke sledování cílů byl vytvořen google analytics, který je primárně určen ke sledování chování lidí (uživatelů) na internetových stránkách.</p>
-<p>Webová analytika nám umožňuje přemýšlet na internetu více strategicky, protože zhruba víme, podle analyzovaných dat, jak se naše stránka chová a jak se na ni chovají uživatelé. Můžeme pomocí něj rozhodovat o budoucnosti našeho webu, skoro až předpovídat budoucnost, pokud v datech umíme dobře číst. GA nám umožňuje také popřípadě zjistit, kde máme na naší stránce nedostatky.</p>
 <br>
+<p>Co to je <b>webová analytika</b> a k čemu je dobrá?</p>
+<p>Webová analytika je měření a vyhodnocování dat z minulosti, jejich analýza nám pomáhá zjistit co se na našem webu děje. Nebýt webové analytiky, dalo by se říct, že jsme slepí. Nevíme co uživatelé našeho webu na něm dělají, na co klikají, odkud přichází apod. Díky webové analytice můžeme právě zjistit všechny tyto informace. Analýza minulosti je důležitá pro "předvídání" budoucnosti, dává nám možnost přemýšlet strategicky.</p>
+<br>
+<p>K čemu je dobrá? S čím nám může pomoci?</p>
+<br>
+<p>WA má mnoho možností uplatnění, mezi které patří např. odhalování technických nedostatků stránky, sleduje chování uživatelů (odkud přicházejí, jestli pomocí nějakých dotazů, nebo z sociálních sítí, jak se na našich stránkách chovají, na co klikají, jestli si taky něco koupili), zjišťuje jestli naše stránky slouží k tomu, k čemu mají. Jednou z nejdůlěžitějších měřitelných statistik je sledování ppc reklam. Nástroje webových analytik nám mohou říct jestli, případně jak moc, se nám reklamní kampaň vydařila, tudíž nám sděluje její efektivitu. To samé platí i v případě mailingu, např. poslední 3 roky byly v měsíci říjnu nejvyhledávanější hodinky Casio, tak na konci září rozešleme mail našim zákazníkům, že se v měsíci říjnu budou prodávat hodinky Casio se slevou 20%.</p>
+<br>
+Jaké máme nástroje pro webovou analytiku?
 <p>Princip fungování:</p>
 <p>GA funguje na základě JavaScriptového kódu, který musíme vložit do záhlaví|zápatí stránky. Kód si vygenerujeme na stránkách analytics. Princip fungování kódu: při načtení stránky kód odkáže na externí soubor který provede sběr dat, data se odešlou serveru, ten je vyhodnotí a odešle serverům společnosti google a ten každou hodinu zpracovává a aktualizuje přehledy v GA.</p>
 
-<ol>K čemu slouží GA: <li>sbírá data o webu a uživatelích, ty jsou pak zpracována a využívána k analýze</li>
-                  <li>díky tomu podporuje marketingové kampaně a umožňuje sledování cílů našeho webu (např jestli se nám                           vyplatila koupit ppc reklama popřípadě jak moc)</li>
-                  <li>umožňuje také sledovat efektivitu změn našeho webu po technické stránce</li></ol>
 <p><b>PPC reklama</b> - pay per click, reklama se platí za každý proklik, pak už jen záleží pokud si uživatel něco koupí nebo ne a podle toho můžeme určit jestli je pro nás efektivní</p>
 
 <p>Přihlášení do GA a získání GATC (google analytics tracking code)</p>
