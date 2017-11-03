@@ -37,3 +37,6 @@
 Akvizice - říká nám odkud uživatelé přišli, jaké stránky byly vstupní, přes jaké dotazy se na naše stránky dostali, nejdůležitější je zdroj / médium</li>
 <li>Chování - sleduje chování uživatelů na stránkách, jaké stránky si nejvíce prohlížejí</li>
 <li>Konverze - sleduje plnění cílů naší stránky, splněným cílem je pro nás potvrzení objednávky</li></ul>
+
+piwik
+https://www.parse.ly/api/
